@@ -16,3 +16,6 @@
 
 # vscode
 .vscode
+
+# Built binary
+/sl1cmd
